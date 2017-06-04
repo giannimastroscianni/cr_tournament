@@ -1,1 +1,1 @@
-"A little matching combiner" 
+"A little program that creates randomly matching for tournaments" 
